@@ -20,7 +20,9 @@ smtp_port = 587
 
 smtp_username = ""
 
-smtp_password = ""    
+smtp_password = "" 
+
+USAGE
 
 git clone https://github.com/Heads3t/emailspoof
 
