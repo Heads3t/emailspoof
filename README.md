@@ -4,7 +4,9 @@ To run the email spoofing script successfully, you need to ensure that you have 
 Open your terminal or command prompt and run the following commands:
 
 pip install secure-smtplib
+
 pip install email
+
 pip install getpass
 
 EMAIL SPOOFING TO GET NO SPF RECORD P.O.C
